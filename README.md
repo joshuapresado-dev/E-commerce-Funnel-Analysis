@@ -1,4 +1,4 @@
-# Product Funnel Analysis and Financial Analysis for an E-Commerce 
+# Product Funnel and Financial Analysis for an E-Commerce 
 
 ## Executive Summary:
 
@@ -24,6 +24,24 @@ SQL: CTEs, Joins, Case, aggregate functions, Window Functions
 Power BI: Data Visualization, ETL  
 
 ### Results & Business Recommendations:
-Looking 
+Simply looking over all the aggregated data we visualized the funnel and gain information on the company performance. Using outside sources and the typical sucess rate for a funnel conversion rate would be around 3-5% therefore the 9% funnnel rate is far higher than then most companies. We can use this indicator as either a low amount of customers or a great conversion rate.  
+<img width="1474" height="788" alt="image" src="https://github.com/user-attachments/assets/3ae5f12d-ea94-4ac7-9abf-0a0d0b1510d4" />
+
+Looking at Seasonality we can first understand the simply trends over a monthly basis, there is a consistent spike during the months of November and December signifying the holidays. We can use this information to either push for well executed campaigns to maximize revnue and reduce the funnel.
+
+<img width="1484" height="790" alt="image" src="https://github.com/user-attachments/assets/d8f7e582-56ef-4674-8caa-c3d6e52fc69a" />
 
 
+Lastly, we can use the revenue gained by different channel to be specific for each target. As we can see the churn rate reduction would have a successful revenue conversion rate if we fully utilized emails to returning customers. The same would be said to the other targets as well.
+
+
+
+<img width="1486" height="793" alt="image" src="https://github.com/user-attachments/assets/11709c9e-0e19-47ce-b295-bd9faee85d62" />
+
+
+My recommendation based on the results we have gained through the data is to focus on specific channels for each specific targets to save money on campaigns and to maximize revenue gain. Additionally, we can use seasonality to fully maximize advertisement and campaigns as we see a great increase in revenue and customers. We can take advantage of during this time to promote deals or certain campaigns.
+
+### Next Steps:
+1. To include a cohort and churn analysis to identify returning customers
+2. Use AB testing for deeper understanding
+3. Look for trending products
