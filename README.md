@@ -24,3 +24,11 @@ SQL: CTEs, Joins, Case, aggregate functions, Window Functions
 Power BI: Data Visualization, ETL  
 
 ### Results & Business Recommendations:
+
+<details>
+<summary>Click to expand code example</summary>
+
+```Postgre
+```
+
+</details>
